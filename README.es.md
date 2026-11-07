@@ -1,3 +1,4 @@
+🇬🇧 [Read in English](README.md)
 # A/B testing de campañas de email: análisis frecuentista, bayesiano y por segmentos
 
 Análisis de un experimento aleatorizado de email marketing (el *MineThatData E-Mail Analytics Challenge* de Kevin Hillstrom, 2008): validación del diseño, estimación del efecto de cada campaña con intervalos de confianza y corrección por comparaciones múltiples, enfoque bayesiano y exploración de si el efecto cambia según el tipo de cliente.
